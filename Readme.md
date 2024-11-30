@@ -8,7 +8,7 @@ Uses SS-90000-011 Ethernet port, https://www.mouser.com/ProductDetail/530-SS-900
 ![Render1](/images/3dRender1.png)
 ![Render2](/images/3dRender2.png)
 
-##PCB image
+## PCB image
 ![PCB](/images/SchematicImage.png)
 
 ## Finished board
